@@ -1,0 +1,4 @@
+Hello, World! 你好
+Hello, World! 你好
+This is a test file.
+Python file operations are easy!
